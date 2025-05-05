@@ -20,20 +20,5 @@ Extrair padrões e insights sobre os casos de síndrome gripal, focando em vari�
 - ydata-profiling
 - Jupyter Notebook
 
-## 📊 Relatório Técnico
-
-O relatório completo da análise pode ser encontrado na pasta `relatorio/`.
-
-## 📁 Estrutura
-
-- `notebooks/`: Contém o notebook com as análises
-- `relatorio/`: Contém o relatório técnico em PDF
-- `dados/`: Pasta destinada aos dados (não incluídos por questões de privacidade)
-
-## ⚠️ Aviso
-
-Os dados utilizados são confidenciais e não foram incluídos neste repositório. Caso deseje replicar a análise, utilize dados públicos compatíveis.
-
 ---
 
-Desenvolvido por Gabriel Andrade e Leonardo Mulinari.
