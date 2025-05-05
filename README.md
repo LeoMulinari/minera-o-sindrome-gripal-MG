@@ -1,0 +1,1 @@
+# minera-o-sindrome-gripal-MG
